@@ -10,3 +10,21 @@ const knumberText = TextStyle(
   fontWeight: FontWeight.w900);
 const minHeight = 180.0;
 const maxHeight = 220.0;
+const kLargebuttonTextStyle = TextStyle(fontSize: 25.0,
+fontWeight: FontWeight.bold);
+const kTitleResults = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+const kresultTextStyle = TextStyle(
+  color: Color(0xFF24D876),
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold,
+);
+const kBMITextStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold
+);
+const kBodyTextStyle = TextStyle(
+  fontSize: 22.0,
+);
